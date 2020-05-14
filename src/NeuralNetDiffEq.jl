@@ -1,6 +1,6 @@
 __precompile__()
 
-module NeuralNetDiffEq
+module NeuralNetDiffEqCustom
 #dependencies
 using Knet, DiffEqBase, Compat, ForwardDiff
 import DiffEqBase: solve
