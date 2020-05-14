@@ -1,4 +1,4 @@
-name = "NeuralNetDiffEq"
+name = "NeuralNetDiffEqCustom"
 uuid = "8faf48c0-8b73-11e9-0e63-2155955bfa4d"
 authors = ["Chris Rackauckas <accounts@chrisrackauckas.com>"]
 version = "1.4.0"
